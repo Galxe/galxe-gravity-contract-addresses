@@ -18,11 +18,11 @@ The repository contains contract addresses for both mainnet and testnet environm
 Each contract record contains the following fields:
 
 1. `chain` - The blockchain network (e.g., ETHEREUM, BSC, MATIC)
-2. `type` - Contract type (e.g., SPACE_STATION, TOKEN_REWARD)
+2. `type` - Contract type (e.g., SPACE_STATION, TOKEN_REWARD, TOKEN_STATION, L2_STANDARD_GATEWAY)
 3. `address` - The deployed contract address
 4. `description` - Additional information about the contract
-5. `project` - Project name (Galxe)
-6. `status` - Contract status (active/inactive)
+5. `project` - Project name (e.g., Galxe, Gravity, SUCCINCT_SP1)
+6. `status` - Contract status (active/inactive/deprecated)
 
 ## Example Record
 
