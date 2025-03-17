@@ -1,0 +1,146 @@
+[
+  {
+    "chain": "MOVEMENT_SUZUKA",
+    "type": "SPACE_STATION",
+    "address": "0xf3cecf44ae5b697612cfa0bd641e8093048110dce54eaa2397aa1cc01e72db47",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "EMONEY_TESTNET",
+    "type": "TOKEN_REWARD",
+    "address": "0x5f6e2c102f8b0327288d99ed755442a7741f85ec",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC_TESTNET",
+    "type": "TOKEN_REWARD",
+    "address": "0x7c0d946afe51a718c6e916246eead238d0f9a8c3",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SEPOLIA",
+    "type": "TOKEN_REWARD",
+    "address": "0x270aa81dc92164bcecec70d7d6c76fa13e2f94fa",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "INJECTIVE_TESTNET",
+    "type": "TOKEN_REWARD",
+    "address": "inj1axmtlg2uz34dc4k9sw32w9w76zp6ejzcrxjl20",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BASE_TESTNET",
+    "type": "SPACE_STATION",
+    "address": "0xe6638a827e2eb827c627495e73df5492783f11f5",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "LINEA_TESTNET",
+    "type": "SPACE_STATION",
+    "address": "0x866f34f1605a94a017696a915aac23177bd00828",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SCROLL_TESTNET",
+    "type": "SPACE_STATION",
+    "address": "0xba55eec22886650ad234bf03e1c2ede0a3f62010",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MODE_SEPOLIA",
+    "type": "SPACE_STATION",
+    "address": "0xf248bb0f1419f9ea09bf0038dd667182f7a13155",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SCROLL_SEPOLIA",
+    "type": "SPACE_STATION",
+    "address": "0x0812d3fcd16afa88d38b6dc48a9f0b28944ffa7a",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "X1_TESTNET",
+    "type": "SPACE_STATION",
+    "address": "0x4452f5fdcd42ffba1554a786170b4be7a06c06af",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BLAST_SEPOLIA",
+    "type": "SPACE_STATION",
+    "address": "0xbf5d5dea7e202630c6c74606aa1adef5b51340d7",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ZIRCUIT_TESTNET",
+    "type": "SPACE_STATION",
+    "address": "0x7a755bd55853a7064eb9b4932834ad0e48522025",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "KROMA_SEPOLIA",
+    "type": "SPACE_STATION",
+    "address": "0xdbc189e9dbbe64123109ec64167bbcce77af7eb2",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "INJECTIVE_TESTNET",
+    "type": "SPACE_STATION",
+    "address": "inj1n96zr06eqttpef7prspntlc7uqdumyq4ugq23w",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "EMONEY_TESTNET",
+    "type": "SPACE_STATION",
+    "address": "0x68f9940e2e1c4de3cbec6615b062161d473f3d19",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MOVEMENT_SUZUKA",
+    "type": "SPACE_STATION",
+    "address": "0x092d2f7ad00630e4dfffcca01bee12c84edf004720347fb1fd57016d2cc8d3f8",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MOVEMENT_SUZUKA",
+    "type": "SPACE_STATION",
+    "address": "0xf3cecf44ae5b697612cfa0bd641e8093048110dce54eaa2397aa1cc01e72db47",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  }
+]

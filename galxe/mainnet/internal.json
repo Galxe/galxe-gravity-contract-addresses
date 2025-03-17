@@ -1,0 +1,1794 @@
+[
+  {
+    "chain": "CRONOS",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "ZK_RAFFLE",
+    "address": "0x27f1edbb0b983da21121fb59298134ab31cecf73",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "POINTS_DISTRIBUTION",
+    "address": "0x5d87140b9cc8b6aab98c055f8178602da0b3ece7",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OKC",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BobaBNB",
+    "type": "ECOSYSTEM_LOYALTY_POINT",
+    "address": "0xdf3a0595afa580ee49f0892b8d6e965c5a7f1818",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "CYBER",
+    "type": "SPACE_STATION",
+    "address": "0xc014aa240f7428a22fdea15d56db08b2098b1191",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BobaEth",
+    "type": "SPACE_STATION",
+    "address": "0xc014aa240f7428a22fdea15d56db08b2098b1191",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FANTOM",
+    "type": "SPACE_STATION",
+    "address": "0xc014aa240f7428a22fdea15d56db08b2098b1191",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FANTOM",
+    "type": "TOKEN_REWARD",
+    "address": "0x88a095fce15876589869f603b4a6dfbe73a71699",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FNCY",
+    "type": "SPACE_STATION",
+    "address": "0xdf3a0595afa580ee49f0892b8d6e965c5a7f1818",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "HAQQ",
+    "type": "SPACE_STATION",
+    "address": "0xe526e7b3ef54011b2f147b3c42eb2fd03353f716",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MANTA_PACIFIC",
+    "type": "SPACE_STATION",
+    "address": "0xe4beb999a383da0a2ae3717bbd569fd8c4273c81",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MANTA_PACIFIC",
+    "type": "TOKEN_REWARD",
+    "address": "0xec4ba53376e6509a175a938b595eb7b4f6dba685",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MINT",
+    "type": "SPACE_STATION",
+    "address": "0xc014aa240f7428a22fdea15d56db08b2098b1191",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "TOKEN_REWARD",
+    "address": "0xc2a4c16b012f42e4f270334ab711e708a4bb3bc2",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MANTLE",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OPTIMISM",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SEI_EVM",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ABSTRACT",
+    "type": "SPACE_STATION",
+    "address": "0x98acee0a46b3c7020e13f93b692c9d10f57dfb04",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "EMONEY_MAINNET",
+    "type": "TOKEN_REWARD",
+    "address": "0xd5ca85156a27384568f7d281f6e5ebcd78a1d61d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "EMONEY_MAINNET",
+    "type": "SPACE_STATION",
+    "address": "0x9c95c1ebb07cd6daaab4948dc60660c25b929a19",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "EMONEY_MAINNET",
+    "type": "SPACE_STATION",
+    "address": "0x9c95c1ebb07cd6daaab4948dc60660c25b929a19",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ABSTRACT",
+    "type": "TOKEN_REWARD",
+    "address": "0xe83a589c7bf1dbbc1f886aecbb199ed43900d9dd",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "TAIKO",
+    "type": "SPACE_STATION",
+    "address": "0xe526e7b3ef54011b2f147b3c42eb2fd03353f716",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ABSTRACT",
+    "type": "TOKEN_REWARD",
+    "address": "0xe83a589c7bf1dbbc1f886aecbb199ed43900d9dd",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "SPACE_BALANCE",
+    "address": "0x61812464226f3e2305649a2cb1ac5f128d284707",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "EMONEY_MAINNET",
+    "type": "TOKEN_REWARD",
+    "address": "0xd5ca85156a27384568f7d281f6e5ebcd78a1d61d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "SPACE_BALANCE",
+    "address": "0x61812464226f3e2305649a2cb1ac5f128d284707",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "TAIKO",
+    "type": "TOKEN_REWARD",
+    "address": "0x599d54931dd25b81680c3667c1867f142cae881e",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "TAIKO",
+    "type": "TOKEN_REWARD",
+    "address": "0x599d54931dd25b81680c3667c1867f142cae881e",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "TAIKO",
+    "type": "SPACE_STATION",
+    "address": "0xe526e7b3ef54011b2f147b3c42eb2fd03353f716",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "ZK_RAFFLE",
+    "address": "0x27f1edbb0b983da21121fb59298134ab31cecf73",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BASE",
+    "type": "INSTANT_PAYMENT",
+    "address": "0x96eb090b35dfbbe7208f357cd509a658c359209b",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ABSTRACT",
+    "type": "SPACE_STATION",
+    "address": "0x98acee0a46b3c7020e13f93b692c9d10f57dfb04",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "SPACE_BALANCE",
+    "address": "0x61812464226f3e2305649a2cb1ac5f128d284707",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "SPACE_BALANCE",
+    "address": "0xd2db0b974e6db566078b373530d0ff3e0b59d378",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "SPACE_BALANCE",
+    "address": "0x61812464226f3e2305649a2cb1ac5f128d284707",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "SPACE_BALANCE",
+    "address": "0x61812464226f3e2305649a2cb1ac5f128d284707",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "ECOSYSTEM_LOYALTY_POINT",
+    "address": "0x6b08b2fc665f766193a0cb9a64bcfb8beaac03d4",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SOLANA",
+    "type": "POINTS_DISTRIBUTION",
+    "address": "BXZ5pc6NV4oTFtAfGt6WSCBmfAGwXaBeUmaTUM6Qw5mh",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SOLANA",
+    "type": "POINTS_FACTORY",
+    "address": "BXZ5pc6NV4oTFtAfGt6WSCBmfAGwXaBeUmaTUM6Qw5mh",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "LSD_PAYMENT",
+    "address": "0x0a9f93cc265d042521a0a46d63f004add0edb81b",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SONEIUM",
+    "type": "SPACE_STATION",
+    "address": "0xf7340302995f915063eeb6e4ea5200efd3e98a6d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SONEIUM",
+    "type": "SPACE_STATION",
+    "address": "0xe4beb999a383da0a2ae3717bbd569fd8c4273c81",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SONEIUM",
+    "type": "SPACE_STATION",
+    "address": "0xe4beb999a383da0a2ae3717bbd569fd8c4273c81",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARBITRUM",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "AVALANCHE",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BASE",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BLAST",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "SPACE_BALANCE",
+    "address": "0x61812464226f3e2305649a2cb1ac5f128d284707",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "SPACE_BALANCE",
+    "address": "0xd2db0b974e6db566078b373530d0ff3e0b59d378",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "POINTS_FACTORY",
+    "address": "0x4f4b657292588fa52aadf700bfeeb8c2398c2c72",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BASE",
+    "type": "SPACE_BALANCE",
+    "address": "0x4ce0dca1b3048779055ac0eba1315a6c82fe0d62",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "TON",
+    "type": "ECOSYSTEM_LOYALTY_POINT",
+    "address": "UQBBxY8QxxY8AunOKTdcaGf8cqFipZ7Cv_K2r8IJR72s29Xy",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SOLANA",
+    "type": "TOKEN_REWARD",
+    "address": "9mJHDeBWnrkvvKH3MRNX8n5jaxXPMjeGqEf7M8BcY7wM",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "TOKEN_REWARD",
+    "address": "0x9C5321B7f1C492451Af5B68F000ba0Cc686A95e6",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "SPACE_STATION",
+    "address": "0x3bdC5d61871A43876d6dC636865317071e6f6bf5",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SONEIUM",
+    "type": "SPACE_STATION",
+    "address": "0xf7340302995f915063eeb6e4ea5200efd3e98a6d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SUI",
+    "type": "SPACE_STATION",
+    "address": "0x1f3d7b07c5462d474d0e393ac323a5f573666c8512a2eb01f43920b159c02b9c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BASE",
+    "type": "SPACE_STATION",
+    "address": "0xd05ef2eed2db580c0ddd118044a7e4b69e632570",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MANTLE",
+    "type": "SPACE_STATION",
+    "address": "0xad2822d264f0b07fe6ce1f800f181828ee635b2f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "AVALANCHE",
+    "type": "SPACE_STATION",
+    "address": "0xad2822d264f0b07fe6ce1f800f181828ee635b2f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "SPACE_STATION",
+    "address": "0x2733c5da7989adebd23117eae3941b4ac7789024",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "RAFFLE_TOKEN",
+    "address": "0xee81a77f6535692e2e0321100d7c0ce6f1577239",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SOLANA",
+    "type": "POINTS_DISTRIBUTION",
+    "address": "BXZ5pc6NV4oTFtAfGt6WSCBmfAGwXaBeUmaTUM6Qw5mh",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SOLANA",
+    "type": "POINTS_FACTORY",
+    "address": "BXZ5pc6NV4oTFtAfGt6WSCBmfAGwXaBeUmaTUM6Qw5mh",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SOLANA",
+    "type": "TOKEN_REWARD",
+    "address": "9mJHDeBWnrkvvKH3MRNX8n5jaxXPMjeGqEf7M8BcY7wM",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "SPACE_STATION",
+    "address": "0xad2822d264f0b07fe6ce1f800f181828ee635b2f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARBITRUM",
+    "type": "SPACE_STATION",
+    "address": "0x1957fede42d7295c0ed89075eef6e8e0bff92814",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "TOKEN_REWARD",
+    "address": "0x7ab71ad6a68f35d45b0979d6d9d3447ee0bed323",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "TOKEN_REWARD",
+    "address": "0xd4517dbeef443cf3d1d760abdd4268f12940c6f8",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ALGORAND",
+    "type": "SPACE_STATION",
+    "address": "2634581885-3AYTBWWNKTLNPN452O43MICJH5YYBQVJW4UCUAMUZVN5COHKX73ZAMIIKA",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "APTOS",
+    "type": "SPACE_STATION",
+    "address": "0x2835f8fcdca897b182d3427c064fc86cb8c7734fb73598e10d0820463f9d6f07",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARCHWAY",
+    "type": "SPACE_STATION",
+    "address": "archway00000000000000000000000000000000000000000000000000000000000",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "AZERO",
+    "type": "SPACE_STATION",
+    "address": "0x027460e077ef5d2ae7d5ba64dad0b4e07947a49da86c44eee5fb96a56aec085134",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Atlantic2",
+    "type": "SPACE_STATION",
+    "address": "sei1nyk84nk7mwpg72pqwm9a6t7rk8wqzpc4rdnn95tsfn48py423gus7adx8l",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MOVEMENT_SUI",
+    "type": "SPACE_STATION",
+    "address": "movementsui00000000000000000000000000000000000000000000000000000000000",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "STACKS",
+    "type": "SPACE_STATION",
+    "address": "0x036c572987e98f6244716c02ffa82a4aa244e3c8d965d6cac7079d98dcc2d78c32",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ZETACHAIN",
+    "type": "TOKEN_REWARD",
+    "address": "0x96839568a6ba315b5519c336e9b383a9c2967849",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MERLIN",
+    "type": "TOKEN_REWARD",
+    "address": "0x4ccf4eda2afe65a0a88cdf6f3e2ac4ad8ed53cd7",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "CRONOS",
+    "type": "TOKEN_REWARD",
+    "address": "0x10a75db542206bfee7d65283c983ba313f1995b9",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "KLAYTN",
+    "type": "TOKEN_REWARD",
+    "address": "0xab42fbd4e043302c8b98bf1371446066bfc7e19f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "TOKEN_REWARD",
+    "address": "0x465a7b85ffc126c18880626e74ecbf490048436c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "AZERO",
+    "type": "TOKEN_REWARD",
+    "address": "5gbs7jq8urbxc1ueyobknwjrjoa5mmrimdexntwxafaws7eu",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BLAST",
+    "type": "TOKEN_REWARD",
+    "address": "0x4863a723f889162f0af9d197d97d172ec74f65ac",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "RSK",
+    "type": "TOKEN_REWARD",
+    "address": "0x4863a723f889162f0af9d197d97d172ec74f65ac",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARCHWAY",
+    "type": "TOKEN_REWARD",
+    "address": "archway16h9rjk20vfr52wxhlhsheyh3y3y24rx4xyag7fppjqfn73wrdmvqdqj5kt",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SEI_EVM",
+    "type": "TOKEN_REWARD",
+    "address": "0x37a8e3d805e6cb7ed755b2f7821a4674cb107d82",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MANTA_PACIFIC",
+    "type": "TOKEN_REWARD",
+    "address": "0x0b31a1572796f1d1071a6cb7ff20c1c1e4d9db1c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "TOKEN_REWARD",
+    "address": "0x7870fc5dba3251295077970b6e1425da62a8cdf9",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "TOKEN_REWARD",
+    "address": "0x803d7d0b1e826e4a57bd41ee47d7b41d29e0ca4a",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "TOKEN_REWARD",
+    "address": "0x51ba6746c7502eea040836169807d6596351cde3",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARBITRUM",
+    "type": "TOKEN_REWARD",
+    "address": "0xee2385f996c0c895ed874278368f46f78055d2be",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OPTIMISM",
+    "type": "TOKEN_REWARD",
+    "address": "0x406b02e7ab35d4e1dbc8be8695f03b1f39fde734",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "AVALANCHE",
+    "type": "TOKEN_REWARD",
+    "address": "0x066f0e4c7110d6cd1b949a488d187e6fae63657d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FANTOM",
+    "type": "TOKEN_REWARD",
+    "address": "0xb3c531d617fc5b7a59635ef0a8be18e0a6e2836b",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MOONBEAM",
+    "type": "TOKEN_REWARD",
+    "address": "0x64d22f81ea0580ee3d56b6c4a15bf5151b405d76",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "IOTEX",
+    "type": "TOKEN_REWARD",
+    "address": "0xfc61d005b6867409d043d88621ba9b714f756337",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OKC",
+    "type": "TOKEN_REWARD",
+    "address": "0xe0c2e3b93c2a54824ff0b3b55cef9efeceaf0714",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GOERLI",
+    "type": "TOKEN_REWARD",
+    "address": "0x45649f867f0d4338e697fdea60b44746a61cc20d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BASE",
+    "type": "TOKEN_REWARD",
+    "address": "0xf7a39a4642ec17c0b1bbd3c0aa176435e689f426",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MANTLE",
+    "type": "TOKEN_REWARD",
+    "address": "0x436fdaa523325b6fd05b673847babc8043ed18c5",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "INJECTIVE",
+    "type": "TOKEN_REWARD",
+    "address": "inj10hnlwectvldat7y9zuw4ekz0x6luhvcg5g4djh",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "SPACE_STATION",
+    "address": "0xc92ede6ac9865111356b8f51fbd7ee8d261d9637",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "SPACE_STATION",
+    "address": "0x835f22b4280aaf357d12dbf03721651b3a8b0167",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "SPACE_STATION",
+    "address": "0x5bd25d2f4f26bc82a34de016d34612a28a0cd492",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "SPACE_STATION",
+    "address": "0xdeb1f826c512eee2fa9398225a3401a0dd5311e2",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FANTOM",
+    "type": "SPACE_STATION",
+    "address": "0x597e0a675d071228edfc8918f54a5d5257bd6663",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "SPACE_STATION",
+    "address": "0x5c1274456be4dd280429b9a8319e552cad2595fa",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARBITRUM",
+    "type": "SPACE_STATION",
+    "address": "0xa0d893e6f4bb0e5823c995310bf1b1b4387ac83d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "SPACE_STATION",
+    "address": "0x6e7801d5b07da1a82f6d1930685731a50645b182",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "SPACE_STATION",
+    "address": "0x44d2a93948b70dc0568020aad2efc6fe7d146404",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "AVALANCHE",
+    "type": "SPACE_STATION",
+    "address": "0xe338d00f5fbd32fa414531be1685418c7c118e83",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "SPACE_STATION",
+    "address": "0x6cad6e1abc83068ea98924aef37e996ed02abf1c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "SPACE_STATION",
+    "address": "0x760b8237e457e6a2b5b196ae073ef0301b8316a2",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FANTOM",
+    "type": "SPACE_STATION",
+    "address": "0x88a8378d0f3d4ff110d2757e12fe3adb17903403",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "SPACE_STATION",
+    "address": "0x987fb80b5e8646a2dc4c276881484bd442d645f3",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "SPACE_STATION",
+    "address": "0xaae9f9d4fb8748feba405ce25856dc57c91bbb92",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARBITRUM",
+    "type": "SPACE_STATION",
+    "address": "0x1ae981a0a3ae5f9cdc059d9478d2c37e8eb442eb",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "SPACE_STATION",
+    "address": "0xf6d1b85af155229acd7b523601148585a1ff67c6",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "SPACE_STATION",
+    "address": "0x2d18f2d27d50c9b4013deba3d54f60996bd8847e",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "SPACE_STATION",
+    "address": "0x75cda57917e9f73705dc8bcf8a6b2f99adbdc5a5",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "AVALANCHE",
+    "type": "SPACE_STATION",
+    "address": "0x13d8c4e3741e968cc8e740bdb02537cb1d2d70e6",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARBITRUM",
+    "type": "SPACE_STATION",
+    "address": "0x9e6ef7f75ad88d4edb4c9925c94b769c5b0d6281",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FANTOM",
+    "type": "SPACE_STATION",
+    "address": "0x168a6136fd4f60699b64fb9f8a2f8ed95b279954",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "IOTEX",
+    "type": "SPACE_STATION",
+    "address": "0xc24785ed62b06bf4b9b304b8153969abe39ff7bc",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OPTIMISM",
+    "type": "SPACE_STATION",
+    "address": "0x2e42f214467f647fe687fd9a2bf3baddfa737465",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MOONBEAM",
+    "type": "SPACE_STATION",
+    "address": "0xa36aabc82b62b01884a66dd9f51ab2e7061748aa",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BobaEth",
+    "type": "SPACE_STATION",
+    "address": "0x0c13f714590857243feaf9878e8fe48cc601190d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BobaAvax",
+    "type": "SPACE_STATION",
+    "address": "0xce176edf3e4e995d0cbea63e199cef58d6bd9f8b",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BobaBNB",
+    "type": "SPACE_STATION",
+    "address": "0xb76ec6436a56dd42baa4389a6c808bbb46697505",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BobaMoonbeam",
+    "type": "SPACE_STATION",
+    "address": "0x79f0c9e741500984bc29e2d2542612932b9bdd71",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OKC",
+    "type": "SPACE_STATION",
+    "address": "0x3d286e198132d74bd6d16669b8f61a2cf58bb1fe",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "APTOS",
+    "type": "SPACE_STATION",
+    "address": "0x092d2f7ad00630e4dfffcca01bee12c84edf004720347fb1fd57016d2cc8d3f8",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "APTOS",
+    "type": "SPACE_STATION",
+    "address": "0x2835f8fcdca897b182d3427c064fc86cb8c7734fb73598e10d0820463f9d6f07",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ZkSyncEra",
+    "type": "SPACE_STATION",
+    "address": "0xa0924cc8792836f48d94759c76d32986bc74b54c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "PEAQ",
+    "type": "SPACE_STATION",
+    "address": "0xb2a14d7a19884d6a7de2bab1857987168a0fb162",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Atlantic2",
+    "type": "SPACE_STATION",
+    "address": "sei1nyk84nk7mwpg72pqwm9a6t7rk8wqzpc4rdnn95tsfn48py423gus7adx8l",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "POLYGON_ZKEVM",
+    "type": "SPACE_STATION",
+    "address": "0x54624ba8cde15648bb1e29c27b99299644c146d5",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BASE",
+    "type": "SPACE_STATION",
+    "address": "0x7a0bea791a3fde0911f910f3fa5875f5b4a294e1",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "LINEA",
+    "type": "SPACE_STATION",
+    "address": "0xabefcff81b1f00905f5efc5871626e793e20a5dc",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1wfn6hffkcme42wl7x54jrn6qrm5eeg6ujxq08pem0ddsfkhjyq3skxuued",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FNCY",
+    "type": "SPACE_STATION",
+    "address": "0xb0df103d0938c567c40a86a040937dcc64f3df48",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1fmgpz0frux02euxljm80mqa2j0j3078qlaf27yhgcc04vesfp77qcjtmqn",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "PHOENIX",
+    "type": "SPACE_STATION",
+    "address": "0xb70727b1c9ea67a20af4d1164cae2a11f813a9e5",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MANTA_PACIFIC",
+    "type": "SPACE_STATION",
+    "address": "0xe861f4c140a03b8e6c6ae914aaad92dd8a138a2a",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "FLOW",
+    "type": "SPACE_STATION",
+    "address": "a.7ea91850463865f4.ufcstrikeinfinity",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SCROLL",
+    "type": "SPACE_STATION",
+    "address": "0x87ea09c63dbbec41fea1f6942c010d39984e8aed",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "STARKNET",
+    "type": "SPACE_STATION",
+    "address": "0x07aa609f16de050ab3a638f7a776e41b8aac38ca2ee985925f3a638d36be1f68",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "KROMA",
+    "type": "SPACE_STATION",
+    "address": "0x1abc5d9bfc24603e4bbd7b1c6833d11d9c79bd57",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "HAQQ",
+    "type": "SPACE_STATION",
+    "address": "0x799003a192f9d381de63e43af52e6402b4227199",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MANTLE",
+    "type": "SPACE_STATION",
+    "address": "0xa23abbef3ee3aad45d3ff6c5b9c8b9f9c7af85fa",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OPBNB",
+    "type": "SPACE_STATION",
+    "address": "0xeabaa7830cdf8a5996ca453a0202f6ef43e23f46",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei16tk9cjfr8daqykknzgxz3hwlnmgye6ty90lajscq0wdyqcy5cpmsnhpen3",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1f87pgaj3vc95h50pc3ef08tvg2h9cf2shd7hynvfjwktv8t2sdys87adv4",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei18g9hjmha6x07q983txrywlwjp0dyuxmv7sp8r5rw57lffxy6e05s9phszt",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1ykux0fj648m8ae6ngfpyc502ck0tdmgmchvwzjjggzgqc5qekx7qfyar9p",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1pvkjtcvl24a86a3lqux5en8a67ctg039kveaeqjt3gmcdukvyr3sj5r847",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei18p0avgf032lushllyfygr3eaxvukgpjcsl8704zlaalqp7g9046qznxn7q",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei16j8uy4dcv2eav6hexkgj9rc856gg86qz4pwzrhxr6nhmu6vk0vmq65demv",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei19scu5t2xphx274uyt85d2epjpjs52xcnwyhhqmll5qzqr5xs8cgqs9dm0p",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei140w2vkyat2xajnarg683xjnmzh5p8r6guh6paka66c6pdhf03xhs535cu5",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei16vu6tq72dtpwxpzgypdk0gndwtenytstc9ph8206dgmv2hwl8pxqv3nrwf",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1t3wtu2lvkt55k5sxn4cqza9f7sd3gtwpln2g9jdajgf7846pj7rqd338q2",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1d2mesa6t6cj8ekrgwwpk3kzq0yc0y5hgmrener0g548hqcuc5krseknuhu",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1mqdsnshmx80pz7x3wpmw4cjlz0ul4863gt97tqfau2lvgwxt0tcsa543qj",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei1zwrs5wgjhtztfsuzkgmcq5dfmt96rzdpme64g2fafhjhh9ag4gcs62rn5g",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei12fx7kpasvcl35upqkla6a796tr7fevr40qjfssaum28jp49j8mus66lyeq",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "CYBER",
+    "type": "SPACE_STATION",
+    "address": "0x7781a15c31b0fb57347fb8c5e2f751d4ac678e1c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ZERO",
+    "type": "SPACE_STATION",
+    "address": "0x6315d71ff0b495303c7c93f84f2b3e5ce816c707",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "INJECTIVE",
+    "type": "SPACE_STATION",
+    "address": "inj17379zhe67d6tuwr2c9wfqy3l5q8q85wqufm4a3",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "KLAYTN",
+    "type": "SPACE_STATION",
+    "address": "0xdf3a0595afa580ee49f0892b8d6e965c5a7f1818",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ZETACHAIN",
+    "type": "SPACE_STATION",
+    "address": "0x298e3317c10f66f8f349b4d6e50380d68b62a734",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "CRONOS",
+    "type": "SPACE_STATION",
+    "address": "0x3dfef31b5fae344367b5278121e6efda26cc5ff7",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "STACKS",
+    "type": "SPACE_STATION",
+    "address": "0x036c572987e98f6244716c02ffa82a4aa244e3c8d965d6cac7079d98dcc2d78c32",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "QUAI_TESTNET",
+    "type": "SPACE_STATION",
+    "address": "0x04fd43977a13a8ef90731ac0d118261237c0bd26",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MERLIN",
+    "type": "SPACE_STATION",
+    "address": "0x3d5558774c9b65859b0d25515b4b55b262466aaf",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "AZERO",
+    "type": "SPACE_STATION",
+    "address": "0x027460e077ef5d2ae7d5ba64dad0b4e07947a49da86c44eee5fb96a56aec085134",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "X1_MAINNET",
+    "type": "SPACE_STATION",
+    "address": "0x4452f5fdcd42ffba1554a786170b4be7a06c06af",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "RSK",
+    "type": "SPACE_STATION",
+    "address": "0xf7340302995f915063eeb6e4ea5200efd3e98a6d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARCHWAY",
+    "type": "SPACE_STATION",
+    "address": "archway00000000000000000000000000000000000000000000000000000000000",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "VICTION",
+    "type": "SPACE_STATION",
+    "address": "0x0b31a1572796f1d1071a6cb7ff20c1c1e4d9db1c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SUI",
+    "type": "SPACE_STATION",
+    "address": "0x1f3d7b07c5462d474d0e393ac323a5f573666c8512a2eb01f43920b159c02b9c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MEVM",
+    "type": "SPACE_STATION",
+    "address": "0x7781a15c31b0fb57347fb8c5e2f751d4ac678e1c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MEVM",
+    "type": "SPACE_STATION",
+    "address": "0xf3c8b92e8fb5ddbecbe7e561fcc29912953f2428",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SEI_EVM",
+    "type": "SPACE_STATION",
+    "address": "0x4863a723f889162f0af9d197d97d172ec74f65ac",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MINT",
+    "type": "SPACE_STATION",
+    "address": "0x99bf0355eff045d8d3c53df1d32a82736caa1529",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SONEIUM_MINATO",
+    "type": "SPACE_STATION",
+    "address": "0x4863a723f889162f0af9d197d97d172ec74f65ac",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MOVEMENT_SUI",
+    "type": "SPACE_STATION",
+    "address": "movementsui00000000000000000000000000000000000000000000000000000000000",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ZIRCUIT",
+    "type": "SPACE_STATION",
+    "address": "0x2724d722f613c708abcef003ea06f8f36236ea47",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "SPACE_STATION",
+    "address": "0xbf51c932ce6252a95443813f7c07d1d5ed5b385f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "RAFFLE_TOKEN",
+    "address": "0xee81a77f6535692e2e0321100d7c0ce6f1577239",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "CRONOS",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "TON",
+    "type": "SPACE_STATION",
+    "address": "ton00000000000000000000000000000000000000000000000000000000000",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BLAST",
+    "type": "SPACE_STATION",
+    "address": "0x96181afe5f1c3b48c06b1d991796fa5d4d7ccd6d",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SUI",
+    "type": "SPACE_STATION",
+    "address": "sui00000000000000000000000000000000000000000000000000000000000",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "POINTS_FACTORY",
+    "address": "0x4f4b657292588fa52aadf700bfeeb8c2398c2c72",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "POINTS_MANAGER",
+    "address": "0xbead9eddf1aa1222e32e1f8dfe32f0df61bfaa5c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "POINTS_DISTRIBUTION",
+    "address": "0x0c11df9bb57c15926d5195b5f814c1a3ac07969c",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ETHEREUM",
+    "type": "INSTANT_PAYMENT",
+    "address": "0x07c78007ddcffa630fd908a815165e5b0af0c4f2",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BSC",
+    "type": "INSTANT_PAYMENT",
+    "address": "0x9894769c2155dea24ba967bbf6f9ec6802311bc8",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "INSTANT_PAYMENT",
+    "address": "0x432cd30a1a45f20404f03863cb889e7876a957af",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARBITRUM",
+    "type": "INSTANT_PAYMENT",
+    "address": "0x432cd30a1a45f20404f03863cb889e7876a957af",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ALGORAND",
+    "type": "SPACE_STATION",
+    "address": "2634581885-3AYTBWWNKTLNPN452O43MICJH5YYBQVJW4UCUAMUZVN5COHKX73ZAMIIKA",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "STARKNET",
+    "type": "SPACE_STATION",
+    "address": "0x07aa609f16de050ab3a638f7a776e41b8aac38ca2ee985925f3a638d36be1f68",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SUI",
+    "type": "SPACE_STATION",
+    "address": "sui00000000000000000000000000000000000000000000000000000000000",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "Sei",
+    "type": "SPACE_STATION",
+    "address": "sei12fx7kpasvcl35upqkla6a796tr7fevr40qjfssaum28jp49j8mus66lyeq",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "TON",
+    "type": "SPACE_STATION",
+    "address": "ton00000000000000000000000000000000000000000000000000000000000",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "POLYGON_ZKEVM",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SCROLL",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OKC",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OPBNB",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_ALPHA",
+    "type": "SPACE_STATION",
+    "address": "0x0dd2f65711eb560330010e68125950be060da98a",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "OPTIMISM",
+    "type": "SPACE_STATION",
+    "address": "0xad2822d264f0b07fe6ce1f800f181828ee635b2f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "ARBITRUM",
+    "type": "SPACE_STATION",
+    "address": "0xad2822d264f0b07fe6ce1f800f181828ee635b2f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BASE",
+    "type": "SPACE_STATION",
+    "address": "0xad2822d264f0b07fe6ce1f800f181828ee635b2f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "SEI_EVM",
+    "type": "SPACE_STATION",
+    "address": "0x599d54931dd25b81680c3667c1867f142cae881e",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "MATIC",
+    "type": "SPACE_STATION",
+    "address": "0xae73902e51a047ed7d88854ef2c315efda4a24fb",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "BLAST",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "X1_MAINNET",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "KROMA",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  },
+  {
+    "chain": "LINEA",
+    "type": "SPACE_STATION",
+    "address": "0xd6e3344caccecd03a5897250100e954957ca221f",
+    "description": "",
+    "project": "Galxe",
+    "status": "active"
+  }
+]
