@@ -1,0 +1,274 @@
+[
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0x729ed87bbE7B7e4B7F09BCb9c668580818d98BB9",
+    "description": "Wrapped Bitcoin on Gravity Chain",
+    "project": "Bitcoin",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xBFBBc4dA47508e85AC18DFC961fa182194E85f9a",
+    "description": "Dai Stablecoin on Gravity Chain",
+    "project": "MakerDAO",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xFbDa5F676cB37624f28265A144A48B0d6e87d3b6",
+    "description": "Bridged USDC via Stargate on Gravity Chain",
+    "project": "Circle",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0x816E810f9F787d669FB71932DeabF6c83781Cd48",
+    "description": "Tether USD Stablecoin on Gravity Chain",
+    "project": "Tether",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0x020462591af819a79A7Fc9B075f2F6bfE1233b5b",
+    "description": "USDe Stablecoin on Gravity Chain",
+    "project": "Ethena",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xB524268D917a7eCCb6cce6bC563CcfD80146F103",
+    "description": "Staked USDe Token on Gravity Chain",
+    "project": "Ethena",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xeD244AaFCE5962cF43CD780b948c11591663D79d",
+    "description": "Wrapped eETH Token on Gravity Chain",
+    "project": "Ether.fi",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xBC0f4Ca84D2ac97bc4702564b033A6402159e8DE",
+    "description": "Wrapped Staked ETH from Lido on Gravity Chain",
+    "project": "Lido",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xf6f832466Cd6C21967E0D954109403f36Bc8ceaA",
+    "description": "Wrapped Ether on Gravity Chain",
+    "project": "WETH",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xc4af68Dd5b96f0A544c4417407773fEFDc97F58d",
+    "description": "Latch Staked USD Token on Gravity Chain",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xc314b8637B05A294Ae9D9C29300d5f667c748baD",
+    "description": "Latch Staked ETH Token on Gravity Chain",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN",
+    "address": "0xBB859E225ac8Fb6BE1C7e38D87b767e95Fef0EbD",
+    "description": "Wrapped G Token - Native Token of Gravity Chain",
+    "project": "Gravity",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "ROLLUP",
+    "address": "0xf993AF239770932A0EDaB88B6A5ba3708Bd58239",
+    "description": "Core rollup contract for managing L2 state",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "INBOX",
+    "address": "0x7AD2a94BefF3294a31894cFb5ba4206957a53c19",
+    "description": "Main inbox contract for L1->L2 message passing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "OUTBOX",
+    "address": "0x1153a1e4B1523DFf36f77d696bd6eBF2B0e7DAbF",
+    "description": "Outbox contract for L2->L1 message passing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "ADMIN_PROXY",
+    "address": "0xBbc3872E30C91ef69336937838c2a283F79f7E68",
+    "description": "Admin proxy contract for managing system upgrades",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "SEQUENCER_INBOX",
+    "address": "0x8D99372612e8cFE7163B1a453831Bc40eAeb3cF3",
+    "description": "Sequencer inbox for ordered transaction processing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "BRIDGE",
+    "address": "0x7983403dDA368AA7d67145a9b81c5c517F364c42",
+    "description": "Main bridge contract for cross-chain asset transfers",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "UTILS",
+    "address": "0x2b0E04Dc90e3fA58165CB41E2834B44A56E766aF",
+    "description": "Utility contract for system operations",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "VALIDATOR_WALLET_CREATOR",
+    "address": "0x9CAd81628aB7D8e239F1A5B497313341578c5F71",
+    "description": "Contract for creating validator wallets",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L3_UPGRADE_EXECUTOR",
+    "address": "0xef8e170Ba5e43746213887DF50C186fB6Cc431FB",
+    "description": "Executor contract for L3 upgrades",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L2_CUSTOM_GATEWAY",
+    "address": "0xa26Fd1c23634870303e42311E114D5cc8301Ed1E",
+    "description": "L2 custom gateway for specialized token bridging",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L2_MULTICALL",
+    "address": "0x7cdCB0Cc61f47B8Dd8f47C5A29edaDd84a1BDf5e",
+    "description": "L2 multicall contract for batch transactions",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L2_PROXY_ADMIN",
+    "address": "0xBbc3872E30C91ef69336937838c2a283F79f7E68",
+    "description": "L2 proxy admin for contract upgrades",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L2_ROUTER",
+    "address": "0x8713569d016f981D956715e9EE2795382168b5c0",
+    "description": "L2 router for message routing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L2_STANDARD_GATEWAY",
+    "address": "0xb23988D9728EF147EAa02D602D7e067B6131A1bB",
+    "description": "L2 standard gateway for token bridging",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L3_CUSTOM_GATEWAY",
+    "address": "0xC18EADE2B2CdA6AcFAc4fd2226C724a1008b02Ab",
+    "description": "L3 custom gateway for specialized token bridging",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L3_MULTICALL",
+    "address": "0xABF31e3A13528082cE5bb05D6E88749556DAFD5F",
+    "description": "L3 multicall contract for batch transactions",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L3_PROXY_ADMIN",
+    "address": "0xB881cf085a78491AaA71Bf22bc87E67865a4409a",
+    "description": "L3 proxy admin for contract upgrades",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L3_ROUTER",
+    "address": "0xf1cA401FB474520EbaBb285670891dEbd7C505Bc",
+    "description": "L3 router for message routing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "L3_STANDARD_GATEWAY",
+    "address": "0xD330E617270F375Bd476896f3A8AE9041264E13d",
+    "description": "L3 standard gateway for token bridging",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "ZK_VERIFIER_GATEWAY",
+    "address": "0x3B6041173B80E77f038f3F2C0f9744f04837185e",
+    "description": "SP1 canonical verifier gateway for routing proofs to appropriate verifiers",
+    "project": "SUCCINCT_SP1",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "ZK_VERIFIER_GROTH16",
+    "address": "0x95F70a7DE0AeDdb1166343524934D2aaE5609a53",
+    "description": "SP1 Groth16 v3.0.0 verifier for zero-knowledge proofs",
+    "project": "SUCCINCT_SP1",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "ZK_VERIFIER_PLONK",
+    "address": "0xd2832Cf1fC8bA210FfABF62Db9A8781153131d16",
+    "description": "SP1 Plonk v3.0.0 verifier for zero-knowledge proofs",
+    "project": "SUCCINCT_SP1",
+    "status": "active"
+  }
+]

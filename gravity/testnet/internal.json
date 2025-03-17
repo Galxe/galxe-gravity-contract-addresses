@@ -1,0 +1,154 @@
+[
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "ROLLUP",
+    "address": "0xDE145C4Ef9699D130848167d512dD1D09f173066",
+    "description": "Core rollup contract for managing L2 state",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "INBOX",
+    "address": "0xe50eBd835F5f17fdEC0A547c37343F080B664357",
+    "description": "Main inbox contract for L1->L2 message passing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "OUTBOX",
+    "address": "0xC5C415a8739dbE817683a691445B762F3B2c34Dd",
+    "description": "Outbox contract for L2->L1 message passing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "ADMIN_PROXY",
+    "address": "0x00e1cf85b6a01ab9438f5e42F5CDb9A67fF98592",
+    "description": "Admin proxy contract for managing system upgrades",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "SEQUENCER_INBOX",
+    "address": "0x3eb7334755Fb41dC01400B15C8cC0C64B36E5969",
+    "description": "Sequencer inbox for ordered transaction processing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "BRIDGE",
+    "address": "0x946CF7F3238537e51B017369E523425A18996C23",
+    "description": "Main bridge contract for cross-chain asset transfers",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "UTILS",
+    "address": "0xb33Dca7b17c72CFC311D68C543cd4178E0d7ce55",
+    "description": "Utility contract for system operations",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "VALIDATOR_WALLET_CREATOR",
+    "address": "0x75500812ADC9E51b721BEa31Df322EEc66967DDF",
+    "description": "Contract for creating validator wallets",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L3_UPGRADE_EXECUTOR",
+    "address": "0x81844d7915b389fafe938ca156cfd6998af26c90",
+    "description": "Executor contract for L3 upgrades",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L2_CUSTOM_GATEWAY",
+    "address": "0x7bb1e669b48c93eaad8766e6dc607e7160a964dc",
+    "description": "L2 custom gateway for specialized token bridging",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L2_MULTICALL",
+    "address": "0x73465577E9FD7Cd585E4270F23A9eBa99B92b6eD",
+    "description": "L2 multicall contract for batch transactions",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L2_PROXY_ADMIN",
+    "address": "0xBbc3872E30C91ef69336937838c2a283F79f7E68",
+    "description": "L2 proxy admin for contract upgrades",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L2_ROUTER",
+    "address": "0xe52a504b7cc8d4f1d7a65b26fb6464ae46035106",
+    "description": "L2 router for message routing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L2_STANDARD_GATEWAY",
+    "address": "0x5eaf6cfe7e8c386bff1e36ffe55014f28a8b061c",
+    "description": "L2 standard gateway for token bridging",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L3_CUSTOM_GATEWAY",
+    "address": "0x730eca29f7a17952fe8b44e324083944f73e4544",
+    "description": "L3 custom gateway for specialized token bridging",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L3_MULTICALL",
+    "address": "0xf1a7ff9a701b1d47b3020b7b90eff8650b53d5bb",
+    "description": "L3 multicall contract for batch transactions",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L3_PROXY_ADMIN",
+    "address": "0x44a4abc26ceef42b09d67743f2680bf7ae5f82e2",
+    "description": "L3 proxy admin for contract upgrades",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L3_ROUTER",
+    "address": "0x4e78fab9c8e6e8bddf80330f5523116fa8484826",
+    "description": "L3 router for message routing",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_TESTNET",
+    "type": "L3_STANDARD_GATEWAY",
+    "address": "0x8c82825b115ba53a77b1d6b6c72d14c6d95a2ab1",
+    "description": "L3 standard gateway for token bridging",
+    "project": "GRAVITYalpha",
+    "status": "active"
+  }
+] 

@@ -8,7 +8,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "ZK_RAFFLE",
     "address": "0x27f1edbb0b983da21121fb59298134ab31cecf73",
     "description": "",
@@ -16,7 +16,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "POINTS_DISTRIBUTION",
     "address": "0x5d87140b9cc8b6aab98c055f8178602da0b3ece7",
     "description": "",
@@ -112,7 +112,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "TOKEN_REWARD",
     "address": "0xc2a4c16b012f42e4f270334ab711e708a4bb3bc2",
     "description": "",
@@ -256,7 +256,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "ZK_RAFFLE",
     "address": "0x27f1edbb0b983da21121fb59298134ab31cecf73",
     "description": "",
@@ -296,7 +296,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "SPACE_BALANCE",
     "address": "0xd2db0b974e6db566078b373530d0ff3e0b59d378",
     "description": "",
@@ -320,7 +320,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "ECOSYSTEM_LOYALTY_POINT",
     "address": "0x6b08b2fc665f766193a0cb9a64bcfb8beaac03d4",
     "description": "",
@@ -344,7 +344,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "LSD_PAYMENT",
     "address": "0x0a9f93cc265d042521a0a46d63f004add0edb81b",
     "description": "",
@@ -416,7 +416,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "SPACE_BALANCE",
     "address": "0xd2db0b974e6db566078b373530d0ff3e0b59d378",
     "description": "",
@@ -424,7 +424,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "POINTS_FACTORY",
     "address": "0x4f4b657292588fa52aadf700bfeeb8c2398c2c72",
     "description": "",
@@ -456,7 +456,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "TOKEN_REWARD",
     "address": "0x9C5321B7f1C492451Af5B68F000ba0Cc686A95e6",
     "description": "",
@@ -464,7 +464,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "SPACE_STATION",
     "address": "0x3bdC5d61871A43876d6dC636865317071e6f6bf5",
     "description": "",
@@ -520,7 +520,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "RAFFLE_TOKEN",
     "address": "0xee81a77f6535692e2e0321100d7c0ce6f1577239",
     "description": "",
@@ -672,7 +672,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "TOKEN_REWARD",
     "address": "0x465a7b85ffc126c18880626e74ecbf490048436c",
     "description": "",
@@ -1536,7 +1536,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "SPACE_STATION",
     "address": "0xbf51c932ce6252a95443813f7c07d1d5ed5b385f",
     "description": "",
@@ -1544,7 +1544,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "RAFFLE_TOKEN",
     "address": "0xee81a77f6535692e2e0321100d7c0ce6f1577239",
     "description": "",
@@ -1584,7 +1584,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "POINTS_FACTORY",
     "address": "0x4f4b657292588fa52aadf700bfeeb8c2398c2c72",
     "description": "",
@@ -1592,7 +1592,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "POINTS_MANAGER",
     "address": "0xbead9eddf1aa1222e32e1f8dfe32f0df61bfaa5c",
     "description": "",
@@ -1600,7 +1600,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "POINTS_DISTRIBUTION",
     "address": "0x0c11df9bb57c15926d5195b5f814c1a3ac07969c",
     "description": "",
@@ -1712,7 +1712,7 @@
     "status": "active"
   },
   {
-    "chain": "GRAVITY_ALPHA",
+    "chain": "GRAVITY_MAINNET",
     "type": "SPACE_STATION",
     "address": "0x0dd2f65711eb560330010e68125950be060da98a",
     "description": "",
