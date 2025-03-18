@@ -1,0 +1,170 @@
+[
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "LIQUIDITY_BRIDGE",
+    "address": "0x9B36f165baB9ebe611d491180418d8De4b8f3a1f",
+    "description": "Celer liquidity pool-based bridge for cross-chain token transfers with slippage control, supporting both ERC20 and native tokens with delayed transfer protection",
+    "project": "Celer",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET", 
+    "type": "CANONICAL_BRIDGE",
+    "address": "0x7d43AABC515C356145049227CeE54B608342c0ad",
+    "description": "Celer OriginalTokenVault V2 canonical bridge for cross-chain transfers of native tokens, with features including delayed transfers, volume control, and signature verification",
+    "project": "Celer",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "PRICE_ORACLE",
+    "address": "0x2880aB155794e7179c9eE2e38200202908C17B43",
+    "description": "Pyth upgradeable price oracle contract providing stable price feeds through Hermes Stable, with cross-chain price updates via Wormhole",
+    "project": "Pyth",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "MESSAGING",
+    "address": "0x9c2dc7377717603eB92b2655c5f2E7997a4945BD",
+    "description": "Stargate TokenMessaging contract built on LayerZero for cross-chain token transfers, supporting both batch (Bus) and single (Taxi) transfer modes with native token drop capability",
+    "project": "Stargate/LayerZero",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "DEX_AGGREGATOR",
+    "address": "0xcE8f24A58D85eD5c5A6824f7be1F8d4711A0eb4C",
+    "description": "Symbiosis MetaRouter contract for cross-chain token swaps, supporting multi-step routing through various DEXs with unified gateway approval system",
+    "project": "Symbiosis",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "SYNTHETIC_BRIDGE",
+    "address": "0x292fC50e4eB66C3f6514b9E402dBc25961824D62",
+    "description": "Symbiosis Portal contract for cross-chain token bridging via synthetic assets, supporting token synthesis/burning, meta-transactions, and emergency revert functionality",
+    "project": "Symbiosis",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "MESSAGING",
+    "address": "0x7f4babd2c7d35221e72ab67ea72cba99573a0089",
+    "description": "Relay message receiver contract for handling cross-chain message delivery and execution with verification",
+    "project": "Relay",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "TOKEN_ROUTER",
+    "address": "0xeeeeee9ec4769a09a76a83c7bc42b185872860ee",
+    "description": "Relay ERC20Router contract for managing cross-chain ERC20 token transfers and routing",
+    "project": "Relay",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "APPROVAL_PROXY",
+    "address": "0xaaaaaaae92cc1ceef79a038017889fdd26d23d4d",
+    "description": "Relay ApprovalProxy contract for managing token approvals and permissions in cross-chain operations",
+    "project": "Relay",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "AMM_POOL",
+    "address": "0xa3FfAc3EBFA18b5BC4f2Ae10086403E85FBF6b2B",
+    "description": "Camelot G-USDC Algebra V1.9 pool with dynamic fees, concentrated liquidity, and advanced price oracle integration",
+    "project": "Camelot",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "AMM_POOL",
+    "address": "0xFdC1548F522CB39255321bd8E6e1Cf8447CB18fe",
+    "description": "Camelot USDT-atUSD Algebra V1.9 pool with dynamic fees, concentrated liquidity, and advanced price oracle integration",
+    "project": "Camelot",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "AMM_POOL",
+    "address": "0x9f7C32C1D6160318f552f45780C8F7465edda4F3",
+    "description": "Camelot atETH-wETH Algebra V1.9 pool with dynamic fees, concentrated liquidity, and advanced price oracle integration",
+    "project": "Camelot",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "AMM_POOL",
+    "address": "0xF2F357520914c037F5736632De6F709232239B04",
+    "description": "Camelot USDT-USDC Algebra V1.9 pool with dynamic fees, concentrated liquidity, and advanced price oracle integration",
+    "project": "Camelot",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "AMM_POOL",
+    "address": "0xD1607a5a4B8E26BA0dd66a3b79f9f8ed048C1a0b",
+    "description": "Camelot wETH-USDC Algebra V1.9 pool with dynamic fees, concentrated liquidity, and advanced price oracle integration",
+    "project": "Camelot",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "AMM_POOL",
+    "address": "0xd4712e437537c24A5E3993f8E4e67ed96173576f",
+    "description": "Camelot wETH-G Algebra V1.9 pool with dynamic fees, concentrated liquidity, and advanced price oracle integration",
+    "project": "Camelot",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "AMM_POOL",
+    "address": "0x827d908a0E7460e676b67781586A462055aa19e7",
+    "description": "iZumi WG-USDC Algebra V1.9 pool with dynamic fees, concentrated liquidity, and advanced price oracle integration",
+    "project": "iZumi",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "AMM_POOL",
+    "address": "0xe4d6bAAbe6c1CA303885296819b01C39b0D071C3",
+    "description": "iZumi WG-WETH Algebra V1.9 pool with dynamic fees, concentrated liquidity, and advanced price oracle integration",
+    "project": "iZumi",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "GAS_FAUCET",
+    "address": "0xB50Ac92D6d8748AC42721c25A3e2C84637385A6b",
+    "description": "Comet EOA for small gas fee distribution on Gravity mainnet",
+    "project": "Comet",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "GAS_FAUCET",
+    "address": "0x8C826F795466E39acbfF1BB4eEeB759609377ba1",
+    "description": "Gas.zip EOA for small gas fee distribution on Gravity mainnet",
+    "project": "Gas.zip",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "DEX_ROUTER",
+    "address": "0xE578184bC88EB48485Bba23a37B5509578d2aE38",
+    "description": "IceCreamSwap V2 Router contract for token swaps and liquidity management, based on Uniswap V2 with support for ETH/token pairs and fee-on-transfer tokens",
+    "project": "IceCreamSwap",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "DEX_ROUTER",
+    "address": "0x16A3247Db4588176c24C6A5F6d3fd2C174122DF5",
+    "description": "IceCreamSwap Smart Router supporting V2, V3, and StableSwap pools with multicall functionality and self-permit features",
+    "project": "IceCreamSwap",
+    "status": "active"
+  }
+]

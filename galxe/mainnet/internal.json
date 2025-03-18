@@ -1790,5 +1790,69 @@
     "description": "",
     "project": "Galxe",
     "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "STAKED_USD",
+    "address": "0xc4af68Dd5b96f0A544c4417407773fEFDc97F58d",
+    "description": "Latch staked USD contract for managing USD staking positions",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "GRAVITY_MAINNET",
+    "type": "STAKED_ETH",
+    "address": "0xc314b8637B05A294Ae9D9C29300d5f667c748baD",
+    "description": "Latch staked ETH contract for managing ETH staking positions",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "ETH",
+    "type": "USD_VAULT_PROXY",
+    "address": "0xa116b4680b52973426B6D2a92DcC972b8DbcB46F",
+    "description": "Latch USD Vault Proxy 1 on Ethereum for managing USD deposits",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "ETH",
+    "type": "ETH_VAULT_PROXY",
+    "address": "0x97cA296139f114BF3040Cf05D05c240B770c627E",
+    "description": "Latch ETH Vault Proxy 1 on Ethereum for managing ETH deposits",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "ETH",
+    "type": "USD_VAULT_PROXY",
+    "address": "0x774388454c92FE33e781ab535A5E9d186a4562E7",
+    "description": "Latch USD Vault Proxy 2 on Ethereum for managing USD deposits",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "ETH",
+    "type": "ETH_VAULT_PROXY",
+    "address": "0x774388454c92FE33e781ab535A5E9d186a4562E7",
+    "description": "Latch ETH Vault Proxy 2 on Ethereum for managing ETH deposits",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "ETH",
+    "type": "USD_VAULT_PROXY",
+    "address": "0x29403B1AC2B745c806e4d4988e4C1B6F4c119b95",
+    "description": "Latch USD Vault Proxy 3 on Ethereum for managing USD deposits",
+    "project": "Latch",
+    "status": "active"
+  },
+  {
+    "chain": "ETH",
+    "type": "ETH_VAULT_PROXY",
+    "address": "0x899f88b7c34a01ed0eea2bdb0952bd271ad3245b",
+    "description": "Latch ETH Vault Proxy 3 on Ethereum for managing ETH deposits",
+    "project": "Latch",
+    "status": "active"
   }
 ]
