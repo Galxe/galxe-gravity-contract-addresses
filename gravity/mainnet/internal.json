@@ -100,7 +100,7 @@
     "type": "ROLLUP",
     "address": "0xf993AF239770932A0EDaB88B6A5ba3708Bd58239",
     "description": "Core rollup contract for managing L2 state",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -108,7 +108,7 @@
     "type": "INBOX",
     "address": "0x7AD2a94BefF3294a31894cFb5ba4206957a53c19",
     "description": "Main inbox contract for L1->L2 message passing",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -116,7 +116,7 @@
     "type": "OUTBOX",
     "address": "0x1153a1e4B1523DFf36f77d696bd6eBF2B0e7DAbF",
     "description": "Outbox contract for L2->L1 message passing",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -124,7 +124,7 @@
     "type": "ADMIN_PROXY",
     "address": "0xBbc3872E30C91ef69336937838c2a283F79f7E68",
     "description": "Admin proxy contract for managing system upgrades",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -132,7 +132,7 @@
     "type": "SEQUENCER_INBOX",
     "address": "0x8D99372612e8cFE7163B1a453831Bc40eAeb3cF3",
     "description": "Sequencer inbox for ordered transaction processing",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -140,7 +140,7 @@
     "type": "BRIDGE",
     "address": "0x7983403dDA368AA7d67145a9b81c5c517F364c42",
     "description": "Main bridge contract for cross-chain asset transfers",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -148,7 +148,7 @@
     "type": "UTILS",
     "address": "0x2b0E04Dc90e3fA58165CB41E2834B44A56E766aF",
     "description": "Utility contract for system operations",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -156,7 +156,7 @@
     "type": "VALIDATOR_WALLET_CREATOR",
     "address": "0x9CAd81628aB7D8e239F1A5B497313341578c5F71",
     "description": "Contract for creating validator wallets",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -164,7 +164,7 @@
     "type": "L3_UPGRADE_EXECUTOR",
     "address": "0xef8e170Ba5e43746213887DF50C186fB6Cc431FB",
     "description": "Executor contract for L3 upgrades",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -172,7 +172,7 @@
     "type": "L2_CUSTOM_GATEWAY",
     "address": "0xa26Fd1c23634870303e42311E114D5cc8301Ed1E",
     "description": "L2 custom gateway for specialized token bridging",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -180,7 +180,7 @@
     "type": "L2_MULTICALL",
     "address": "0x7cdCB0Cc61f47B8Dd8f47C5A29edaDd84a1BDf5e",
     "description": "L2 multicall contract for batch transactions",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -188,7 +188,7 @@
     "type": "L2_PROXY_ADMIN",
     "address": "0xBbc3872E30C91ef69336937838c2a283F79f7E68",
     "description": "L2 proxy admin for contract upgrades",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -196,7 +196,7 @@
     "type": "L2_ROUTER",
     "address": "0x8713569d016f981D956715e9EE2795382168b5c0",
     "description": "L2 router for message routing",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -204,7 +204,7 @@
     "type": "L2_STANDARD_GATEWAY",
     "address": "0xb23988D9728EF147EAa02D602D7e067B6131A1bB",
     "description": "L2 standard gateway for token bridging",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -212,7 +212,7 @@
     "type": "L3_CUSTOM_GATEWAY",
     "address": "0xC18EADE2B2CdA6AcFAc4fd2226C724a1008b02Ab",
     "description": "L3 custom gateway for specialized token bridging",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -220,7 +220,7 @@
     "type": "L3_MULTICALL",
     "address": "0xABF31e3A13528082cE5bb05D6E88749556DAFD5F",
     "description": "L3 multicall contract for batch transactions",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -228,7 +228,7 @@
     "type": "L3_PROXY_ADMIN",
     "address": "0xB881cf085a78491AaA71Bf22bc87E67865a4409a",
     "description": "L3 proxy admin for contract upgrades",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -236,7 +236,7 @@
     "type": "L3_ROUTER",
     "address": "0xf1cA401FB474520EbaBb285670891dEbd7C505Bc",
     "description": "L3 router for message routing",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
@@ -244,7 +244,7 @@
     "type": "L3_STANDARD_GATEWAY",
     "address": "0xD330E617270F375Bd476896f3A8AE9041264E13d",
     "description": "L3 standard gateway for token bridging",
-    "project": "GRAVITYalpha",
+    "project": "GRAVITY",
     "status": "active"
   },
   {
